@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9fd07ae-63ed-415b-8784-550593f75016" /># login-system
+ login-system
 The Lightweight Support Ticket Management System provides a centralized platform where every support request is logged as a ticket with a unique ID, assigned priority, agent, and lifecycle status. The system ensures transparency, accountability, and systematic problem-solving without the complexity of a backend server. 
 
 # 🎫 Lightweight Support Ticket Management System
